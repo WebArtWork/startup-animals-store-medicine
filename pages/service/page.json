@@ -2,11 +2,9 @@
 	"name": "service",
 	"service": {
 		"id": "/service",
-		"price": 1200,
-		"short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.",
-		"thumb": "https://neryxomka.com/template/img/welcome.png",
-        "thumbs": ["https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png", "https://neryxomka.com/template/img/welcome.png"],
-		"name": "service"
+		"thumb": "/artemvelihin/img/1.jpg",
+        "thumbs": ["/artemvelihin/img/2.jpg", "/artemvelihin/img/3.jpg"],
+		"description": " Veterinary Care: Animal medicine encompasses the diagnosis, treatment, and prevention of diseases and injuries in a wide variety of animals, including pets, livestock, wildlife, and zoo animals. Veterinarians are trained professionals who provide medical care to ensure the health and well-being of animals.",
+		"name": "Medecine service"
 	}
 }
